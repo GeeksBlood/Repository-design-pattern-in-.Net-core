@@ -1,0 +1,8 @@
+D:\CoreWebApi\ViewModel\bin\Debug\netstandard2.0\ViewModel.deps.json
+D:\CoreWebApi\ViewModel\bin\Debug\netstandard2.0\ViewModel.dll
+D:\CoreWebApi\ViewModel\bin\Debug\netstandard2.0\ViewModel.pdb
+D:\CoreWebApi\ViewModel\obj\Debug\netstandard2.0\ViewModel.AssemblyInfoInputs.cache
+D:\CoreWebApi\ViewModel\obj\Debug\netstandard2.0\ViewModel.AssemblyInfo.cs
+D:\CoreWebApi\ViewModel\obj\Debug\netstandard2.0\ViewModel.csproj.CoreCompileInputs.cache
+D:\CoreWebApi\ViewModel\obj\Debug\netstandard2.0\ViewModel.dll
+D:\CoreWebApi\ViewModel\obj\Debug\netstandard2.0\ViewModel.pdb

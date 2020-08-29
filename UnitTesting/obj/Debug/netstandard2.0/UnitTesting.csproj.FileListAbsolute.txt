@@ -1,0 +1,8 @@
+D:\CoreWebApi\UnitTesting\bin\Debug\netstandard2.0\UnitTesting.deps.json
+D:\CoreWebApi\UnitTesting\bin\Debug\netstandard2.0\UnitTesting.dll
+D:\CoreWebApi\UnitTesting\bin\Debug\netstandard2.0\UnitTesting.pdb
+D:\CoreWebApi\UnitTesting\obj\Debug\netstandard2.0\UnitTesting.AssemblyInfoInputs.cache
+D:\CoreWebApi\UnitTesting\obj\Debug\netstandard2.0\UnitTesting.AssemblyInfo.cs
+D:\CoreWebApi\UnitTesting\obj\Debug\netstandard2.0\UnitTesting.csproj.CoreCompileInputs.cache
+D:\CoreWebApi\UnitTesting\obj\Debug\netstandard2.0\UnitTesting.dll
+D:\CoreWebApi\UnitTesting\obj\Debug\netstandard2.0\UnitTesting.pdb

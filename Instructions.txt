@@ -1,0 +1,18 @@
+Database project:
+Run Install-Package Microsoft.EntityFrameworkCore.SqlServer
+Run Install-Package Microsoft.EntityFrameworkCore.Tools
+Run Install-Package Microsoft.EntityFrameworkCore.SqlServer.Design
+
+API Core:
+Run Install-Package  Microsoft.EntityFrameworkCore.Design
+Run Install-Package AutoMapper.Extensions.Microsoft.DependencyInjection  
+
+Swagger:
+Run Swashbuckle.AspNetCore
+
+
+
+Scaffold Database:
+Scaffold-DbContext "Server=(localdb)\mssqllocaldb;Database=Test1;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models/DB
+
+Scaffold-DbContext "Server=DESKTOP-7OETHJ8\SQLEXPRESS;Database=MyCompany;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models/DB

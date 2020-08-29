@@ -1,0 +1,14 @@
+D:\CoreWebApi\Repository\bin\Debug\netstandard2.0\Repository.deps.json
+D:\CoreWebApi\Repository\bin\Debug\netstandard2.0\Repository.dll
+D:\CoreWebApi\Repository\bin\Debug\netstandard2.0\Repository.pdb
+D:\CoreWebApi\Repository\obj\Debug\netstandard2.0\Repository.csprojAssemblyReference.cache
+D:\CoreWebApi\Repository\obj\Debug\netstandard2.0\Repository.AssemblyInfoInputs.cache
+D:\CoreWebApi\Repository\obj\Debug\netstandard2.0\Repository.AssemblyInfo.cs
+D:\CoreWebApi\Repository\obj\Debug\netstandard2.0\Repository.csproj.CoreCompileInputs.cache
+D:\CoreWebApi\Repository\obj\Debug\netstandard2.0\Repository.dll
+D:\CoreWebApi\Repository\obj\Debug\netstandard2.0\Repository.pdb
+D:\CoreWebApi\Repository\bin\Debug\netstandard2.0\Database.dll
+D:\CoreWebApi\Repository\bin\Debug\netstandard2.0\ViewModel.dll
+D:\CoreWebApi\Repository\bin\Debug\netstandard2.0\Database.pdb
+D:\CoreWebApi\Repository\bin\Debug\netstandard2.0\ViewModel.pdb
+D:\CoreWebApi\Repository\obj\Debug\netstandard2.0\Repository.csproj.CopyComplete

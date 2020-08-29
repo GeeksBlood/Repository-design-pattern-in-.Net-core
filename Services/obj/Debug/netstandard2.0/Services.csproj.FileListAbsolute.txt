@@ -1,0 +1,16 @@
+D:\CoreWebApi\Services\bin\Debug\netstandard2.0\Services.deps.json
+D:\CoreWebApi\Services\bin\Debug\netstandard2.0\Services.dll
+D:\CoreWebApi\Services\obj\Debug\netstandard2.0\Services.AssemblyInfoInputs.cache
+D:\CoreWebApi\Services\obj\Debug\netstandard2.0\Services.AssemblyInfo.cs
+D:\CoreWebApi\Services\bin\Debug\netstandard2.0\Services.pdb
+D:\CoreWebApi\Services\obj\Debug\netstandard2.0\Services.dll
+D:\CoreWebApi\Services\obj\Debug\netstandard2.0\Services.pdb
+D:\CoreWebApi\Services\bin\Debug\netstandard2.0\Database.dll
+D:\CoreWebApi\Services\bin\Debug\netstandard2.0\Repository.dll
+D:\CoreWebApi\Services\bin\Debug\netstandard2.0\ViewModel.dll
+D:\CoreWebApi\Services\bin\Debug\netstandard2.0\Database.pdb
+D:\CoreWebApi\Services\bin\Debug\netstandard2.0\Repository.pdb
+D:\CoreWebApi\Services\bin\Debug\netstandard2.0\ViewModel.pdb
+D:\CoreWebApi\Services\obj\Debug\netstandard2.0\Services.csprojAssemblyReference.cache
+D:\CoreWebApi\Services\obj\Debug\netstandard2.0\Services.csproj.CopyComplete
+D:\CoreWebApi\Services\obj\Debug\netstandard2.0\Services.csproj.CoreCompileInputs.cache
